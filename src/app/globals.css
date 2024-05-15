@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-rgba-spech{
+  background-color: rgba(11 ,25 ,40, 0.07);
+}
+
+.scrollbar{
+  scrollbar-width: none;
+}
+
+
+.dis-list:not(:last-child){
+  display: none;
+}
